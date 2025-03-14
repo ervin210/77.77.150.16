@@ -10,7 +10,8 @@
     "email": "ervin210@icloud.com"
   },
   "scripts": {
-    "start": "NODE_ENV=production node dist/index.js"
+    "start": "NODE_ENV=production node dist/index.js",
+    "dev": "NODE_ENV=development node dist/index.js"
   },
   "keywords": [
     "security",
